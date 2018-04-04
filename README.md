@@ -1,4 +1,4 @@
-React and sass simple boilerplate
+React and sass simple boilerplate reusable template.
 
 npm install
 
